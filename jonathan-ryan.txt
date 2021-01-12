@@ -1,0 +1,50 @@
+https://codepen.io/jryan3328/pen/PoGyKxo
+
+1.Semantic HTML is what gives your webpage accessibility and organization to your page.
+2.HTML is used for the basic layout of your webpage.
+3.Attributes modify an HTML element.
+4.h1 is used for the main title of your webpage. it's the most important headline
+on your page. it should only be used once.
+5.<div> and <img> require attributes.
+6.Usually the <nav> goes in the head of our HTML document along with some other
+elements.
+7.An id gives an element a specific name. 
+8.the id attribute can be added to the <div>, <span>
+9.you can only use the same id once per page.
+10.A class is like an id except can be used more than once per page.
+11.the same elements you can add id too i can add class too.
+12.As many times as needed.
+13.target="_blank"
+14.the alt attribute is used to give the pictures text when hovered over.
+15.an id is referenced with a pound sign "#"
+16.Sections reference sections of the page while <div> is used for smaller
+parts of sections
+17.CSS is used to style HTML
+18.you select an element by typing the element followed with {}
+19.id's are for things that will only need to be styled once. classes can be used
+to style multiple parts with the same code. I used classes to style my image
+gallery. gave each image a class and styled them that way.
+20.you select classes with a .
+21. .human p{}
+22.a parent child selector is useful when you're trying to figure out which 
+attributes go to which element.
+23. .sidebar a{}
+24.Pseudo classes are special classes given to elements to style when an
+action happens.
+25. line-height:
+26.letter-spacing:
+27.text-transform: capitalize
+28.div {
+    border: dotted 10px black;
+}
+29.Universal brackets no element {}
+30.CSS comment /*
+31.pwd
+32.list is lis
+33.rm *file-name* have to be careful because it's gone forever.
+34.version control keeps everyone's work organized
+35.I commit to github when my project is finished.
+36.git push is the command to push
+37.I fork the repo. I clone the repo. Make my own branch. cd into the repo. Select my work and make
+my changes. git add. then git commit -m "my comments are sweet". and then finally
+git push -u origin jonathan-ryan2
